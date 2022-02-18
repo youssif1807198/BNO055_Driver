@@ -27,7 +27,7 @@ typedef enum{
  CALIB_STAT_Address       = 0X35
 }BNO055_REG_Addresses;
 
-#endif
+
 typedef enum{  
 	/* Mag data register */
     BNO055_MAG_DATA_X_LSB_ADDR = 0X0E,
@@ -88,3 +88,5 @@ typedef enum{
 
 	
 }BN055_DATA_REG_Addresses;
+
+#endif
