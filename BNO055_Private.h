@@ -11,7 +11,7 @@
 #ifndef _BNO055_PRIVATE_H_
 #define _BNO055_PRIVATE_H_
 
-/* this addresses must be checked and prperly connecting HW*/
+/* this addresses must be checked and properly connecting HW*/
 #define BNO055_Address_Primary    0x52 //0x29 shifted one bit left
 #define BNO055_Address_Secondary  0x50 //0x28 shifted one bit left
 #define BNO055_CHIP_ID_Address    0x00
